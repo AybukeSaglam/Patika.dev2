@@ -24,6 +24,8 @@ Tek parça kalana kadar bölelim
 
 [11,16,21]      [8,12,22]
 
+SONUÇ
+
 [8,11,12,16,21,22]
 
 
@@ -31,3 +33,7 @@ Tek parça kalana kadar bölelim
 Big O Gösterimi
 
 n(logn)
+
+
+
+ www.patika.dev
